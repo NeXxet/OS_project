@@ -92,7 +92,7 @@ int main() {
         //long number2[256];   // store digit numbers of second number
 
     // reading the file and storing the 3 numbers variables
-    ifstream theFile("input2.txt");
+    ifstream theFile("input.txt");
     theFile >> threadCount >> num1 >> num2;
 
 
